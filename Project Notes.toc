@@ -1,0 +1,17 @@
+\babel@toc {greek}{}
+\contentsline {section}{\numberline {1}Σκοπός Εργασίας}{2}{section.1}%
+\contentsline {section}{\numberline {2}Report - White wine classification}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Προπαρασκεύη των Δεδομένων}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Variable Reduction Techniques}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Μοντέλα Ταξινόμησης}{8}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Linear discriminant analysis -Γραμμικός Ταξινομητής}{8}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Νευρωνικό Δίκτυο}{9}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Εκπαίδευση Νευρωνικού Δικτύου}{10}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Decision Trees}{15}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Boosted Decision Trees}{17}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Performance Measures - Μετρικές απόδοσης}{20}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Feature Selection - Σημαντικότητα Παραμέτρων}{21}{subsection.2.7}%
+\contentsline {section}{\numberline {3}Αποτελέσματα}{22}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Least Squares LDA}{22}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Neural Network}{22}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Gradient Boosting Tree}{22}{subsection.3.3}%
